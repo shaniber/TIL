@@ -2,7 +2,7 @@
 
 Little articles about things that I learned today. 
 
-📈 0 articles and counting...
+📈 1 article and counting...
 
 ## Other TIL Collections
 * Shamelessly inspired by [jbranchaud/til](https://github.com/jbranchaud/til).
