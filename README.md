@@ -15,7 +15,7 @@ Little articles about things that I learned today.
 &copy; 2025 Shane Doucette  
 This work is licensed under [Creative Commons Attribution-Noncommercial 4.0 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)  
 
-## TILs:
+## TILs
 * [By category](by-category.md)  
 * [By date](by-date.md)
 
