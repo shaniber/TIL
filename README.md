@@ -15,5 +15,8 @@ Little articles about things that I learned today.
 &copy 2025 Shane Doucette
 [Creative Commons Attribution-Noncommercial 4.0 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-## Categories
-Coming soon?
+## TILs:
+* [By category](by-category.md)  
+* [By date](by-date.md)
+
+😻
