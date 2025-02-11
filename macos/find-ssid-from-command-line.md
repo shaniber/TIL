@@ -10,7 +10,7 @@ We can get the information we need from the `system_profiler` utility, and a lit
 system_profiler SPAirPortDataType | awk '/Current Network/ {getline;$1=$1;print $0 | "tr -d ':'";exit}'
 ```
 
-## Source
+## Source and References
 [VikingOSX on the Apple Support Community boards](https://discussions.apple.com/thread/255761216?sortBy=rank).
 
 ## Date
