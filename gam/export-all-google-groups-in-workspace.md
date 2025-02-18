@@ -14,7 +14,7 @@ I could probably have gotten away with removing `settings`, it adds a LOT of inf
 
 ## Sources and References
 * [jensm on the GAM for Google Workspace mailing list](https://groups.google.com/g/google-apps-manager/c/MqV7zQlMrTA/m/0oDsIw9HCgAJ)
-* [Google Apps Manager]([Google Apps Manager (aka GAM)](https://github.com/GAM-team/GAM)
+* [Google Apps Manager (aka GAM)](https://github.com/GAM-team/GAM)
 
 ## Date
 Tuesday, February 18th, 2025
