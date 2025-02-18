@@ -16,10 +16,10 @@ Little articles about things that I learned today.
 
 ## Other TIL Collections
 * Shamelessly inspired by [jbranchaud/til](https://github.com/jbranchaud/til).
-* https://github.com/jwworth/til
-* https://til.simonwillison.net/
-* https://til.hashrocket.com/ 
-* Maybe the OG? https://github.com/thoughtbot/til
+* [jworth/til](https://github.com/jwworth/til)
+* [til.simonwillison.net](https://til.simonwillison.net/)
+* [til.hashrocket.com](https://til.hashrocket.com/)
+* Maybe the OG? [thoughtbot/til](https://github.com/thoughtbot/til)
 
 
 ## License
