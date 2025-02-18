@@ -1,5 +1,7 @@
 # TILs by category
 
+## GAM (Google Apps Manager)
+* [2025-02-18 - Export all Google groups in workspace](gam/export-all-google-groups-in-workspace.md)
 ## Jamf
 * [2024-02-11 - Regenerate invalid FileVault keys](jamf/regenerate-invalid-filevault-keys.md)
 
