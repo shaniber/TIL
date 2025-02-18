@@ -2,5 +2,5 @@
 
 ## 2025
 * [2025-02-18 - GAM: Export all Google groups in workspace](gam/export-all-google-groups-in-workspace.md)
-* [2024-02-11 - Jamf: Regenerate invalid FileVault keys](jamf/regenerate-invalid-filevault-keys.md)
+* [2025-02-11 - Jamf: Regenerate invalid FileVault keys](jamf/regenerate-invalid-filevault-keys.md)
 * [2025-02-07 - macOS: Find SSID from command-line](macos/find-ssid-from-command-line.md)
