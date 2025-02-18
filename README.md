@@ -7,7 +7,11 @@ Little articles about things that I learned today.
 
 ## TILs
 * [By category](by-category.md)  
+  * [Google Apps Manager](by-category.md#gam-google-apps-manager)
+  * [Jamf](by-category.md#jamf)
+  * [macOS](by-category.md#macos)
 * [By date](by-date.md)
+  * [2025](by-date.md#2025)
 
 
 ## Other TIL Collections
