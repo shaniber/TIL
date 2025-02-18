@@ -9,7 +9,7 @@ case $d in
     *)  d=${d}th ;;
 esac
 
-til_date=$(date +"%A, %B ${d}, %Y%n%Y-%m-%d")
+til_date=$(date +"%A, %B ${d}, %Y  %n%Y-%m-%d  ")
 read -p "Enter path: " til_path
 read -p "Enter subject: " til_subject
 
