@@ -1,5 +1,8 @@
 # TILs by category
 
+## Bash
+* [2025-02-19 - Bash pattern substitution](bash/bash_pattern_substitution.md)
+
 ## GAM (Google Apps Manager)
 * [2025-02-18 - Export all Google groups in workspace](gam/export-all-google-groups-in-workspace.md)
 
