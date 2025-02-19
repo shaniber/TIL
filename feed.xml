@@ -11,10 +11,12 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
+    <language>en-CA</language>
     <item>
       <title>Bash: Bash pattern substitution</title>
       <description>I wanted a script to make it quick to generate consistent templates for this repo, so I wanted to take the subject and replace the spaces with underscores.</description>
-      <pubDate>Wed, 19 Feb 2025 15:56:00 -0600</pubDate>
+      <pubDate>Wed, 19 Feb 2025 09:56:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
       <link>https://shaniber.net/til/bash/bash-pattern-substitution.html</link>
       <guid isPermaLink="true">https://shaniber.net/til/bash/bash-pattern-substitution.html</guid>
       <category>Bash</category>
