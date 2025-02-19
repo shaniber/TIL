@@ -14,7 +14,7 @@ layout: null
     <item>
       <title>Bash: Bash pattern substitution</title>
       <description>I wanted a script to make it quick to generate consistent templates for this repo, so I wanted to take the subject and replace the spaces with underscores.</description>
-      <pubDate>2025-02-19T15:56:00-:06:00</pubDate>
+      <pubDate>Tue, 19 Feb 2025 15:56:00 -0600</pubDate>
       <link>https://shaniber.net/til/bash/bash-pattern-substitution.html</link>
       <guid isPermalink="true">https://shaniber.net/til/bash/bash-pattern-substitution.html</guid>
       <category>Bash</category>
