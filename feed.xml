@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Bash: Convert a string to lower case</title>
+      <description>Still on the script to make consistent templates, I also wanted to further normalise the subject to all lower case for filenames.</description>
+      <pubDate>Thu, 20 Feb 2025 10:28:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.bashurl }}/bash/convert_a_string_to_lower_case.md</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.bashurl }}/bash/convert_a_string_to_lower_case.md</guid>
+      <category>Bash</category>
+    </item>
+    <item>
       <title>Bash: Bash pattern substitution</title>
       <description>I wanted a script to make it quick to generate consistent templates for this repo, so I wanted to take the subject and replace the spaces with underscores.</description>
       <pubDate>Wed, 19 Feb 2025 09:56:00 -0600</pubDate>
