@@ -10,6 +10,7 @@ case $d in
 esac
 
 til_date=$(date +"%A, %B ${d}, %Y  %n%Y-%m-%d  ")
+feed_date=$(date +"%a, %d %b %Y %H:%M:00 -0600")
 read -p "Enter path: " til_path
 read -p "Enter subject: " til_subject
 
@@ -42,5 +43,23 @@ REPLACE ME
 ## Date
 ${til_date}
 EOL
+
+echo "Updating feed.xml (remember to change <description>)"
+mv feed.xml feed.xml.bak
+awk -v path="${til_path}" \
+    -v filename="${til_subject_normalized}" \
+    -v subject="${til_subject^}" \
+    -v category="${til_path^}" \
+    -v feed_date=$"${feed_date}" \
+    '1;/<language>en-CA<\/language>/{
+printf "    <item>\n";
+printf "      <title>%s: %s</title>\n", category, subject;
+printf "      <description>REPLACE ME</description>\n";
+printf "      <pubDate>%s</pubDate>\n", feed_date;
+printf "      <dc:creator>shane doucette</dc:creator>\n";
+printf "      <link>{{ site.url }}{{ site.baseurl }}/%s/%s.html</link>\n", path, filename;
+printf "      <guid isPermaLink=\"true\">{{ site.url }}{{ site.baseurl }}/%s/%s.html</guid>\n", path, filename;
+printf "      <category>%s</category>\n", category;
+printf "    </item>\n"; }' feed.xml.bak > feed.xml
 
 echo "Done!"
