@@ -28,8 +28,8 @@ layout: null
       <description>Still on the script to make consistent templates, I also wanted to further normalise the subject to all lower case for filenames.</description>
       <pubDate>Thu, 20 Feb 2025 10:28:00 -0600</pubDate>
       <dc:creator>shane doucette</dc:creator>
-      <link>{{ site.url }}{{ site.bashurl }}/bash/convert_a_string_to_lower_case.md</link>
-      <guid isPermaLink="true">{{ site.url }}{{ site.bashurl }}/bash/convert_a_string_to_lower_case.md</guid>
+      <link>{{ site.url }}{{ site.baseurl }}/bash/convert_a_string_to_lower_case.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/bash/convert_a_string_to_lower_case.html</guid>
       <category>Bash</category>
     </item>
     <item>
@@ -38,7 +38,7 @@ layout: null
       <pubDate>Wed, 19 Feb 2025 09:56:00 -0600</pubDate>
       <dc:creator>shane doucette</dc:creator>
       <link>https://shaniber.net/til/bash/bash-pattern-substitution.html</link>
-      <guid isPermaLink="true">https://shaniber.net/til/bash/bash-pattern-substitution.html</guid>
+      <guid isPermaLink="true">https://shaniber.net/til/bash/bash_pattern_substitution.html</guid>
       <category>Bash</category>
     </item>
   </channel>
