@@ -6,10 +6,10 @@
 * [2025-02-21 - Date formatting tricks](bash/date_formatting_tricks.md)
 
 ## GAM (Google Apps Manager)
-* [2025-02-18 - Export all Google groups in workspace](gam/export-all-google-groups-in-workspace.md)
+* [2025-02-18 - Export all Google groups in workspace](gam/export_all_google_groups_in_workspace.md)
 
 ## Jamf
-* [2025-02-11 - Regenerate invalid FileVault keys](jamf/regenerate-invalid-filevault-keys.md)
+* [2025-02-11 - Regenerate invalid FileVault keys](jamf/regenerate_invalid_filevault_keys.md)
 
 ## macOS
-* [2025-02-07 - Find SSID from command line](macos/find-ssid-from-command-line.md)  
+* [2025-02-07 - Find SSID from command line](macos/find_ssid_from_command_line.md)  
