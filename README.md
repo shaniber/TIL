@@ -7,11 +7,11 @@ Little articles about things that I learned today.
 
 ## TILs
 * [By category](by-category.md)  
-  * [Bash](by-category.md#bash)
-  * [Google Apps Manager](by-category.md#gam-google-apps-manager)
-  * [Jamf](by-category.md#jamf)
-  * [macOS](by-category.md#macos)
-  * [Vim](by-category.md#vim)
+  * [Bash](bash/index.md)
+  * [Google Apps Manager](gam/index.md)
+  * [Jamf](jamf/index.md)
+  * [macOS](macos/index.md)
+  * [Vim](vim/index.md)
 * [By date](by-date.md)
   * [2025](by-date.md#2025)
 
