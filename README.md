@@ -2,7 +2,7 @@
 
 Little articles about things that I learned today. 
 
-📈 6 articles and counting...
+📈 7 articles and counting...
 
 
 ## TILs
@@ -11,6 +11,7 @@ Little articles about things that I learned today.
   * [Google Apps Manager](by-category.md#gam-google-apps-manager)
   * [Jamf](by-category.md#jamf)
   * [macOS](by-category.md#macos)
+  * [Vim](by-category.md#vim)
 * [By date](by-date.md)
   * [2025](by-date.md#2025)
 

@@ -13,3 +13,7 @@
 
 ## macOS
 * [2025-02-07 - Find SSID from command line](macos/find_ssid_from_command_line.md)  
+
+## Vim
+* [2025-02-27 - Exit vim with error code](vim/exit_vim_with_error_code.md)
+
