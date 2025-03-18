@@ -1,7 +1,7 @@
 # TILs by date
 
 ## 2025
-* [2025-03-18 - macOS: CLI log command](macos/cli-log-command.md)
+* [2025-03-18 - macOS: CLI log command](macos/cli_log_command.md)
 * [2025-02-27 - Vim: Exit vim with error code](vim/exit_vim_with_error_code.md)
 * [2025-02-21 - Bash: Date formatting tricks](bash/date_formatting_tricks.md)
 * [2025-02-20 - Bash: Convert a string to lower case](bash/convert_a_string_to_lower_case.md)
