@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Macos: CLI log command</title>
+      <description>While doing some reading about macOS admin, I learned about the command line `log` command.</description>
+      <pubDate>Tue, 18 Mar 2025 11:59:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/macos/cli_log_command.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/macos/cli_log_command.html</guid>
+      <category>Macos</category>
+    </item>
+    <item>
       <title>Vim: Exit vim with error code</title>
       <description>I was reading another TIL and it mentioned a feature of Vim I didn't know -- compiler quit.</description>
       <pubDate>Thu, 27 Feb 2025 09:11:00 -0600</pubDate>
