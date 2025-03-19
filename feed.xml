@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Bash: Find terminal width and height</title>
+      <description>In order to automate some tests, I needed to find the width of the terminal a script is being run in.</description>
+      <pubDate>Wed, 19 Mar 2025 15:30:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/bash/find_terminal_width_and_height.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/bash/find_terminal_width_and_height.html</guid>
+      <category>Bash</category>
+    </item>
+    <item>
       <title>Macos: CLI log command</title>
       <description>While doing some reading about macOS admin, I learned about the command line `log` command.</description>
       <pubDate>Tue, 18 Mar 2025 11:59:00 -0600</pubDate>

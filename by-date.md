@@ -1,6 +1,7 @@
 # TILs by date
 
 ## 2025
+* [2025-03-19 - Bash: Find terminal width and height](bash/find_terminal_width_and_height.md)
 * [2025-03-18 - macOS: CLI log command](macos/cli_log_command.md)
 * [2025-02-27 - Vim: Exit vim with error code](vim/exit_vim_with_error_code.md)
 * [2025-02-21 - Bash: Date formatting tricks](bash/date_formatting_tricks.md)
