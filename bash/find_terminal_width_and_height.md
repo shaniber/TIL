@@ -19,7 +19,7 @@ stty size < $(tty)
 Need it in variables for a script? `read` it into them:
 
 ```
-read HEIGHT WIDTH stty size < $(tty)
+read HEIGHT WIDTH < <(stty size < "$(tty)")
 ```
 
 ## Sources and References
