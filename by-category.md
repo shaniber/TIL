@@ -19,3 +19,6 @@
 ## Vim
 * [2025-02-27 - Exit vim with error code](vim/exit_vim_with_error_code.md)
 
+## VSCode (Visual Studio Code)
+* [2025-03-26 - Set language specific indentation settings](vscode/set_language_specific_indentation_settings.md)
+

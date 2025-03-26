@@ -2,7 +2,7 @@
 
 Little articles about things that I learned today. 
 
-📈 9 articles and counting...
+📈 10 articles and counting...
 
 
 ## TILs
@@ -12,10 +12,13 @@ Little articles about things that I learned today.
   * [Jamf](jamf/index.md)
   * [macOS](macos/index.md)
   * [Vim](vim/index.md)
+  * [Visual Studio Code](vscode/index.md)
+
 * [By date](by-date.md)
   * [2025](by-date.md#2025)
 
 * [RSS Feed](feed.xml), in case you want to keep up with my sporadic posting. 
+
 
 ## Other TIL Collections
 * Shamelessly inspired by [jbranchaud/til](https://github.com/jbranchaud/til).

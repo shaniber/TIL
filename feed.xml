@@ -3,8 +3,8 @@ layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:dc="http://purl.org/dc/elements/1.1/">
+      xmlns:atom="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>shaniber.net :: {{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
@@ -14,6 +14,15 @@ layout: null
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
+    <item>
+      <title>Vscode: Set language specific indentation settings</title>
+      <description>I have been getting annoyed at how Visual Studio Code uses four spaces to indent code, and I finally figured out how to set it to my preferred two spaces.</description>
+      <pubDate>Wed, 26 Mar 2025 17:27:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/vscode/set_language_specific_indentation_settings.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/vscode/set_language_specific_indentation_settings.html</guid>
+      <category>Vscode</category>
+    </item>
     <item>
       <title>Bash: Find terminal width and height</title>
       <description>In order to automate some tests, I needed to find the width of the terminal a script is being run in.</description>
