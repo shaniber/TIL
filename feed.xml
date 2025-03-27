@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Audio: The Harvard Sentences for testing audio</title>
+      <description>I wanted to test the quality of my Jabra mic and needed something to read, which led me to the Harvard Sentences.</description>
+      <pubDate>Thu, 27 Mar 2025 11:19:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/audio/the_harvard_sentences_for_testing_audio.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/audio/the_harvard_sentences_for_testing_audio.html</guid>
+      <category>Audio</category>
+    </item>
+    <item>
       <title>Vscode: Set language specific indentation settings</title>
       <description>I have been getting annoyed at how Visual Studio Code uses four spaces to indent code, and I finally figured out how to set it to my preferred two spaces.</description>
       <pubDate>Wed, 26 Mar 2025 17:27:00 -0600</pubDate>
