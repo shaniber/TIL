@@ -24,6 +24,7 @@ List 34
 So you've got a nifty little set of sentences that you can use to hit all of the English sounds, and you don't have to think about writing something yourself. 
 
 ## Sources and References
+* [https://www.cs.columbia.edu/%7Ehgs/audio/harvard.html](https://www.cs.columbia.edu/%7Ehgs/audio/harvard.html)
 * [https://en.wikipedia.org/wiki/Harvard_sentences](https://en.wikipedia.org/wiki/Harvard_sentences)
 
 ## Date
