@@ -13,7 +13,7 @@ To use compiler quit, use the vim command:
 ```
 
 ## Sources and References
-* [https://vimhelp.org/quickfix.txt.html#%3Acq](https://vimhelp.org/quickfix.txt.html#%3Acq)
+* [Vim Reference Manual - QuickFix commands](https://vimhelp.org/quickfix.txt.html#%3Acq)
 * [Josh Branchaud - Fix Previous Command with fc](https://github.com/jbranchaud/til/blob/master/unix/fix-previous-command-with-fc.md)
 
 ## Date

@@ -17,7 +17,7 @@ You can also edit your `settings.json` directly. On my Mac, it's in `~/Library/A
 
 
 ## Sources and References
-* https://til.simonwillison.net/vscode/language-specific-indentation-settings
+* [Simon Willison, VSCode TIL: Language Specific Indentation Settings](https://til.simonwillison.net/vscode/language-specific-indentation-settings)
 
 
 ## Date
