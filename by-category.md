@@ -15,6 +15,9 @@
 ## Jamf
 * [2025-02-11 - Regenerate invalid FileVault keys](jamf/regenerate_invalid_filevault_keys.md)
 
+## jq
+* [2025-04-03 - Convert JSON to CSV](jq/convert_json_to_csv.md)
+
 ## macOS
 * [2025-03-18 - CLI log command](macos/cli_log_command.md)
 * [2025-02-07 - Find SSID from command line](macos/find_ssid_from_command_line.md)  

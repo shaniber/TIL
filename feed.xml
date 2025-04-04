@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Jq: Convert JSON to CSV</title>
+      <description>I needed to convert some JSON output to CSV, which `jq` is able to do natively.</description>
+      <pubDate>Thu, 03 Apr 2025 17:53:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/jq/convert_json_to_csv.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/jq/convert_json_to_csv.html</guid>
+      <category>Jq</category>
+    </item>
+    <item>
       <title>Audio: The Harvard Sentences for testing audio</title>
       <description>I wanted to test the quality of my Jabra mic and needed something to read, which led me to the Harvard Sentences.</description>
       <pubDate>Thu, 27 Mar 2025 11:19:00 -0600</pubDate>
