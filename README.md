@@ -2,7 +2,7 @@
 
 Little articles about things that I learned today. 
 
-📈 12 articles and counting...
+📈 13 articles and counting...
 
 
 ## TILs
@@ -13,6 +13,7 @@ Little articles about things that I learned today.
   * [Jamf](jamf/index.md)
   * [jq](jq/index.md)
   * [macOS](macos/index.md)
+  * [ShockWave Flash ](swf/index.md)
   * [Vim](vim/index.md)
   * [Visual Studio Code](vscode/index.md)
 
