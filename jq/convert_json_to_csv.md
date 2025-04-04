@@ -14,7 +14,7 @@ For example, let's say we have a JSON output that looks like this fake data:
 
 Kind of ugly, and lots more info that I needed. However, say I just want the first name, last name, city, state, and email address of each of our fake users. I could pipe the json into jq, iterate over the array of users, reference the object identifier-indices directly for the required fields, and just have `jq` spit it out in CSV format: 
 
-```jq
+```bash
 jq --raw-output '
       .users[] 
     | [.firstName, .lastName, .address.city, .address.stateCode, .address.country, .email] 
