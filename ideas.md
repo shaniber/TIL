@@ -2,7 +2,7 @@
 
 Things I learned, but didn't have time to do a write-up for. 
 
-* jq to csv
+* `mdclient` command
 * google sheets XLOOKUP
 * google sheets ARRAYFORMULA
-* `mdclient` command
+* [Placeholder JSON generator](https://dummyjson.com/) 
