@@ -8,19 +8,19 @@ The `log` command, per the man page, is "used to access system wide log messages
 
 For example, if I'm trying to find out what my MDM client is doing in real time, I might use the following:
 
-```
+```bash
 sudo log stream | grep mdmclient
 ```
 
 Or, if I just wanted to see the network activity that was happening during a command:
 
-```
+```bash
 sudo log stream --predicate 'subsystem=="com.apple.network"' | grep mdmclient
 ```
 
 There's a whole pile of subcommands and options that make this useful for scripting and debugging. Thankfully it has a man page, accessible at:
 
-```
+```bash
 man log
 ```
 

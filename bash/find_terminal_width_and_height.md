@@ -6,19 +6,19 @@ In order to automate some tests, I needed to find the width of the terminal a sc
 ## TIL
 The `stty` command gives you a whole passel of information about your terminal. In this case, I want the `size` argument:
 
-```
+```bash
 stty size
 ```
 
 This returns the height and width of the current terminal. If you want to get really particular about it, you can have it read the output of `tty` (which returns the name of the current terminal's device):
 
-```
+```bash
 stty size < $(tty)
 ```
 
 Need it in variables for a script? `read` it into them:
 
-```
+```bash
 read HEIGHT WIDTH < <(stty size < "$(tty)")
 ```
 

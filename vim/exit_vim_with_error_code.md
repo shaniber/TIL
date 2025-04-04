@@ -8,7 +8,7 @@ This nifty little trick lets you exit Vim without saving, and it forces Vim to r
 
 To use compiler quit, use the vim command:
 
-```
+```vim
 :cq
 ```
 

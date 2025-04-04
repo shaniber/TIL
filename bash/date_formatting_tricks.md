@@ -6,7 +6,7 @@ _Still_ on my bash scripting nonsense, I wanted to auto-generate the dates with 
 ## TIL
 The `date` command is, of course, a powerhouse. With a little finessing, we're able to grab today's numerical date and slap an ordinal suffix on it with a `case` statement, then put it back into date. 
 
-```
+```bash 
 d=$(date +%e)
 case $d in
     1?) d=${d}th ;;

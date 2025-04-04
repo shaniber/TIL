@@ -6,7 +6,7 @@ I needed an export of all of the groups in my Google workspace for my infosec te
 ## TIL
 We can use a one-liner GAM command to export all of the groups in a organization to your Google Drive. 
 
-```
+```bash 
 gam print groups name description admincreated id aliases members owners managers settings todrive
 ```
 

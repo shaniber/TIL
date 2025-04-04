@@ -6,8 +6,8 @@ I wanted to test the quality of my Jabra mic and needed something to read, which
 ## TIL
 The Harvard Sentences consist 72 lists of 10 English language phrases each. They're intended to use phenomes at the same frequency that they occur in English. For example:
 
-```
-List 34
+```markdown
+# List 34
 
     1.  Nine rows of soldiers stood in line.
     2.  The beach is dry and shallow at low tide.

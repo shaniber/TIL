@@ -6,7 +6,7 @@ Still on the script to make consistent templates, I also wanted to further norma
 ## TIL
 We can convert a string to lower case with our old buddy `tr`.
 
-```
+```bash
 variable=$(echo "${variable}" | tr '[:upper:]' '[:lower:]')
 ```
 

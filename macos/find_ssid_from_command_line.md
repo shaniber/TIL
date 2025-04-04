@@ -6,12 +6,12 @@ When Apple disabled the `airport` command-line utility with macOS 14.4, it broke
 ## TIL
 We can get the information we need from the `system_profiler` utility, and a little help from our friends `awk` and `tr`. 
 
-```
+```bash
 system_profiler SPAirPortDataType | awk '/Current Network/ {getline;$1=$1;print $0 | "tr -d ':'";exit}'
 ```
 
 ## Source and References
-[VikingOSX on the Apple Support Community boards](https://discussions.apple.com/thread/255761216?sortBy=rank).
+* [VikingOSX on the Apple Support Community boards](https://discussions.apple.com/thread/255761216?sortBy=rank).
 
 ## Date
 Friday, February 7th, 2025  

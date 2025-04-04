@@ -6,7 +6,7 @@ I wanted a script to make it quick to generate consistent templates for this rep
 ## TIL
 We can replace underscores in a string with straight up Bash parameter substitution.
 
-```
+```bash
 variable=${variable// /_}
 ```
 
@@ -17,7 +17,7 @@ variable=${variable// /_}
 
 A generalized form of this would be:
 
-```
+```bash
 variable=${variable//*PATTERN*/*REPLACEMENT*}
 ```
 
