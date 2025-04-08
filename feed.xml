@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>JSON: Generating placeholder JSON</title>
+      <description>When working on a project, I needed some fake JSON data from an API to test both downloading and processing.</description>
+      <pubDate>Mon, 07 Apr 2025 17:49:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/json/generating_placeholder_json.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/json/generating_placeholder_json.html</guid>
+      <category>JSON</category>
+    </item>
+    <item>
       <title>Swf: Convert SWF to PNG</title>
       <description>I have some ShockWave Flash (swf) files with images in them that I want to convert to PNG images.</description>
       <pubDate>Fri, 04 Apr 2025 16:13:00 -0600</pubDate>

@@ -10,6 +10,5 @@ Things I learned, but didn't have time to do a write-up for.
   * https://support.google.com/docs/answer/12405947?hl=en
 * google sheets ARRAYFORMULA
   * https://support.google.com/docs/answer/3093275?hl=en
-* [Placeholder JSON generator](https://dummyjson.com/) 
 * [Advanced jq usage](https://ioflood.com/blog/jq-select/)
 * Reworking [Allegro Vivace](https://github.com/liballeg/allegro_wiki/wiki/Allegro-Vivace) for Godot.

@@ -15,6 +15,9 @@
 ## Jamf
 * [2025-02-11 - Regenerate invalid FileVault keys](jamf/regenerate_invalid_filevault_keys.md)
 
+## JSON
+* [2025-04-07 - Generating placeholder JSON](json/generating_placeholder_json.md)
+
 ## jq
 * [2025-04-03 - Convert JSON to CSV](jq/convert_json_to_csv.md)
 
