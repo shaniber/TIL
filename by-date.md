@@ -3,6 +3,7 @@
 ## 2025
 
 ### April
+* [2025-04-14 - Vim: Use Vim as MANPAGER](vim/use_vim_as_manpager.md)
 * [2025-04-07 - JSON: Generating placeholder JSON](json/generating_placeholder_json.md)
 * [2025-04-04 - SWF: Convert SWF to PNG](swf/convert_swf_to_png.md)
 * [2025-04-03 - jq: Convert JSON to CSV](jq/convert_json_to_csv.md)

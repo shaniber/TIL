@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Vim: Use vim as manpager</title>
+      <description>Using vim as the default way to view man pages seemed like a cool trick</description>
+      <pubDate>Mon, 14 Apr 2025 08:21:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/vim/use_vim_as_manpager.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/vim/use_vim_as_manpager.html</guid>
+      <category>Vim</category>
+    </item>
+    <item>
       <title>JSON: Generating placeholder JSON</title>
       <description>When working on a project, I needed some fake JSON data from an API to test both downloading and processing.</description>
       <pubDate>Mon, 07 Apr 2025 17:49:00 -0600</pubDate>

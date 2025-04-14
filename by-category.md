@@ -29,6 +29,7 @@
 * [2025-04-04 - Convert SWF to PNG](swf/convert_swf_to_png.md)
 
 ## Vim
+* [2025-04-14 - Use Vim as MANPAGER](vim/use_vim_as_manpager.md)
 * [2025-02-27 - Exit vim with error code](vim/exit_vim_with_error_code.md)
 
 ## VSCode (Visual Studio Code)
