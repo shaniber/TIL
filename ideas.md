@@ -12,3 +12,8 @@ Things I learned, but didn't have time to do a write-up for.
   * https://support.google.com/docs/answer/3093275?hl=en
 * [Advanced jq usage](https://ioflood.com/blog/jq-select/)
 * Reworking [Allegro Vivace](https://github.com/liballeg/allegro_wiki/wiki/Allegro-Vivace) for Godot.
+* `vim` as manpager
+  * `export MANPAGER="/opt/homebrew/bin/vim -M +MANPAGER - --not-a-term"`
+  * https://old.reddit.com/r/vim/comments/p1kmz5/using_vim_as_manpager_with_bash/
+  * https://vi.stackexchange.com/questions/4682/how-can-i-suppress-the-reading-from-stdin-message-from-within-vim
+  
