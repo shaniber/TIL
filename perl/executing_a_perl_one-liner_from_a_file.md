@@ -9,7 +9,7 @@ It's hackathon week at work, and I decided to throw my hat in the ring, and subm
 To exectute a perl one-liner that I have stored in a file (let's say named `code-golf-entry.pl`), that reads from an input file (named, say, `input.csv`), you can invoke the interpreter as follows:
 
 ```bash
-perl -nE $(cat code-golf-entry.pl)" input.csv
+perl -nE "$(cat code-golf-entry.pl)" input.csv
 ```
 
 The interpreter will exectute the catted code as if it were written inline, and boom, you've just shaved 12 bytes off your code. 
