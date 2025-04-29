@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Perl: Executing a perl one-liner from a file</title>
+      <description>Executing a perl one-liner from a file</description>
+      <pubDate>Mon, 28 Apr 2025 17:25:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/perl/executing_a_perl_one-liner_from_a_file.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/perl/executing_a_perl_one-liner_from_a_file.html</guid>
+      <category>Perl</category>
+    </item>
+    <item>
       <title>Vim: Use vim as manpager</title>
       <description>Using vim as the default way to view man pages seemed like a cool trick</description>
       <pubDate>Mon, 14 Apr 2025 08:21:00 -0600</pubDate>

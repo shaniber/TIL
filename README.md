@@ -2,7 +2,7 @@
 
 Little articles about things that I learned today. 
 
-📈 15 articles and counting...
+📈 16 articles and counting...
 
 
 ## TILs
@@ -14,6 +14,7 @@ Little articles about things that I learned today.
   * [JSON](json/index.md)
   * [jq](jq/index.md)
   * [macOS](macos/index.md)
+  * [perl](perl/index.md)
   * [ShockWave Flash ](swf/index.md)
   * [Vim](vim/index.md)
   * [Visual Studio Code](vscode/index.md)
