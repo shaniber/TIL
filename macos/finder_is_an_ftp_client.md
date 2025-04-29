@@ -8,10 +8,10 @@ I found a link to an [anonymous FTP search tool on the web](http://archie.macdom
 
 To manually connect:
 
-1) With Finder in the foreground, select **Go** » **Connect to Server** (or press **⌘-K**).
-2) Enter the address of the server (for example [ftp://ftp.apple.asimov.net](ftp://ftp.apple.asimov.net)), and click **Connect**.
-3) Click **Connect** on the warning pop up. 
-4) If this is an ftp server that allows anonymous connections, click **Guest**. Otherwise enter your username and password. Click **Connect**.
+1) With Finder in the foreground, select **Go** » **Connect to Server** (or press **⌘-K**).  
+2) Enter the address of the server (for example [ftp://ftp.apple.asimov.net](ftp://ftp.apple.asimov.net)), and click **Connect**.  
+3) Click **Connect** on the warning pop up.  
+4) If this is an ftp server that allows anonymous connections, click **Guest**. Otherwise enter your username and password. Click **Connect**.  
 
 Et voilà, Chicken Marengo Napoleon! 
 
