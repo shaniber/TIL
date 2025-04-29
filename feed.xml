@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Macos: Finder is an FTP client</title>
+      <description>While exploring an FTP search tool on the web, I discovered that Finder can be used as an FTP client.</description>
+      <pubDate>Tue, 29 Apr 2025 16:52:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/macos/finder_is_an_ftp_client.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/macos/finder_is_an_ftp_client.html</guid>
+      <category>Macos</category>
+    </item>
+    <item>
       <title>Perl: Executing a perl one-liner from a file</title>
       <description>Executing a perl one-liner from a file</description>
       <pubDate>Mon, 28 Apr 2025 17:25:00 -0600</pubDate>
