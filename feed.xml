@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Macos: Using DFU mode to quickly wipe a Mac</title>
+      <description>I needed a quick way to wipe some Mac computers, and DFU mode will wipe and restore in under 15 minutes.</description>
+      <pubDate>Mon, 12 May 2025 15:21:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/macos/using_dfu_mode_to_quickly_wipe_a_mac.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/macos/using_dfu_mode_to_quickly_wipe_a_mac.html</guid>
+      <category>Macos</category>
+    </item>
+    <item>
       <title>Macos: Finder is an FTP client</title>
       <description>While exploring an FTP search tool on the web, I discovered that Finder can be used as an FTP client.</description>
       <pubDate>Tue, 29 Apr 2025 16:52:00 -0600</pubDate>

@@ -2,6 +2,9 @@
 
 ## 2025
 
+### May
+* [2025-05-12 - macOS: Using DFU Mode to quickly wipe a Mac](macos/using_dfu_mode_to_quickly_wipe_a_mac.md)
+
 ### April
 * [2025-04-29 - macOS: Finder is an FTP client](macos/finder_is_an_ftp_client.md)
 * [2025-04-28 - perl: Executing a perl one-liner from a file](perl/executing_a_perl_one-liner_from_a_file.md)
