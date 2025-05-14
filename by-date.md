@@ -3,6 +3,7 @@
 ## 2025
 
 ### May
+* [2025-05-14 - GWS: Getting Google Calendar troubleshooting info](gws/getting_google_calendar_troubleshooting_info.md)
 * [2025-05-12 - macOS: Using DFU Mode to quickly wipe a Mac](macos/using_dfu_mode_to_quickly_wipe_a_mac.md)
 
 ### April

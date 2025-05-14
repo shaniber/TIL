@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Gws: Getting Google Calendar troubleshooting info</title>
+      <description>I needed to look up the Event ID for an event in Google Calendar.</description>
+      <pubDate>Wed, 14 May 2025 13:49:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/gws/getting_google_calendar_troubleshooting_info.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/gws/getting_google_calendar_troubleshooting_info.html</guid>
+      <category>Gws</category>
+    </item>
+    <item>
       <title>Macos: Using DFU mode to quickly wipe a Mac</title>
       <description>I needed a quick way to wipe some Mac computers, and DFU mode will wipe and restore in under 15 minutes.</description>
       <pubDate>Mon, 12 May 2025 15:21:00 -0600</pubDate>

@@ -12,6 +12,9 @@
 ## GAM (Google Apps Manager)
 * [2025-02-18 - Export all Google groups in workspace](gam/export_all_google_groups_in_workspace.md)
 
+## GWS (Google Workspace)
+* [2025-05-14 - Getting Google Calendar troubleshooting info](gws/getting_google_calendar_troubleshooting_info.md)
+
 ## Jamf
 * [2025-02-11 - Regenerate invalid FileVault keys](jamf/regenerate_invalid_filevault_keys.md)
 
