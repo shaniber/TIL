@@ -25,6 +25,7 @@ Little articles about things that I learned today.
 
 * [RSS Feed](feed.xml), in case you want to keep up with my sporadic posting. 
 
+* [Git Repo](https://github.com/shaniber/TIL) -- this looks redundant, but when this is a webpage, it's actually helpful!
 
 ## Other TIL Collections
 * Shamelessly inspired by [jbranchaud/til](https://github.com/jbranchaud/til).
