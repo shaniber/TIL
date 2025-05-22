@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Gws: Extracting pictures from Google Slides</title>
+      <description>I wanted to save a picture from a Google Slides presentation. </description>
+      <pubDate>Thu, 22 May 2025 15:43:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/gws/extracting_pictures_from_google_slides.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/gws/extracting_pictures_from_google_slides.html</guid>
+      <category>Gws</category>
+    </item>
+    <item>
       <title>Gws: Getting Google Calendar troubleshooting info</title>
       <description>I needed to look up the Event ID for an event in Google Calendar.</description>
       <pubDate>Wed, 14 May 2025 13:49:00 -0600</pubDate>

@@ -2,9 +2,6 @@
 
 Things I learned, but didn't have time to do a write-up for. 
 
-* getting images from a Google Slides presentation
-  * export as PPTX, change to .rar, extract, boom. 
-  * https://old.reddit.com/r/GoogleSlides/comments/1ctnfg3/extracting_pics_from_slides/
 * `mdclient` command
   * https://derflounder.wordpress.com/2025/03/16/using-usr-libexec-mdmclient-dumpmanagementstatus-to-get-information-about-mdm-management/
   * https://mosen.github.io/profiledocs/troubleshooting/mdmclient.html
