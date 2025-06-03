@@ -20,3 +20,8 @@ Things I learned, but didn't have time to do a write-up for.
 * Rotating SSH keys
   * https://tailscale.com/blog/rotate-ssh-keys
   * https://www.bastionzero.com/blog/ssh-key-rotation-best-practices
+* Bash `select`
+  * https://linuxize.com/post/bash-select/
+* Nginx / Apache log analysis tools
+  * lnav / goaccess
+  * https://lambdacreate.com/posts/68
