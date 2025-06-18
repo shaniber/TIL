@@ -25,3 +25,6 @@ Things I learned, but didn't have time to do a write-up for.
 * Nginx / Apache log analysis tools
   * lnav / goaccess
   * https://lambdacreate.com/posts/68
+* bash random number generation
+  * `$RANDOM`
+  * https://ioflood.com/blog/bash-random-number/
