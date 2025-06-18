@@ -34,6 +34,9 @@
 ## perl
 * [2025-04-28 - Executing a perl one-liner from a file](perl/executing_a_perl_one-liner_from_a_file.md)
 
+## Security 
+* [2025-06-18 - Migrating OTPs between password managers](security/migrating_otps_between_password_managers.md)  
+
 ## SWF (ShockWave Flash)
 * [2025-04-04 - Convert SWF to PNG](swf/convert_swf_to_png.md)
 

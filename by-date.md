@@ -2,6 +2,9 @@
 
 ## 2025
 
+### June
+* [2025-06-18 - Security: Migrating OTPs between password managers](security/migrating_otps_between_password_managers.md)  
+
 ### May
 * [2025-05-22 - GWS: Extracting pictures from Google Slides](gws/extracting_pictures_from_google_slides.md)
 * [2025-05-14 - GWS: Getting Google Calendar troubleshooting info](gws/getting_google_calendar_troubleshooting_info.md)
