@@ -28,3 +28,6 @@ Things I learned, but didn't have time to do a write-up for.
 * bash random number generation
   * `$RANDOM`
   * https://ioflood.com/blog/bash-random-number/
+* git: force overwrite of local changes
+  * https://stackoverflow.com/questions/1125968/how-do-i-force-git-pull-to-overwrite-local-files
+* ssh / macos: add key passphrase to keychain
