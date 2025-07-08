@@ -2,7 +2,7 @@
 
 Little articles about things that I learned today. 
 
-📈 **21** articles and counting...
+📈 **22** articles and counting...
 
 
 ## TILs
