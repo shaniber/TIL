@@ -4,6 +4,8 @@
 
 ### July
 * [2025-06-05 - macOS: Scriptable Image Processing System](scriptable_image_processing_system.md)
+* [2025-07-24 - GWS: Importing iCal events to Google Calendar](gws/importing_ical_events_to_google_calendar.md)
+
 ### June
 * [2025-06-18 - Security: Migrating OTPs between password managers](security/migrating_otps_between_password_managers.md)  
 

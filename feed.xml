@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>GWS: Importing iCal events to Google Calendar</title>
+      <description>I signed up for an event that provided me an iCal entry, and wanted to add it to my Google Calendar.</description>
+      <pubDate>Thu, 24 Jul 2025 09:09:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/gws/importing_ical_events_to_google_calendar.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/gws/importing_ical_events_to_google_calendar.html</guid>
+      <category>Gws</category>
+    </item>
+    <item>
       <title>Macos: Scriptable Image Processing System</title>
       <description>I wanted to convert downloaded WebP images to PNG without using an online tool. The "Scriptable Image Processing System", or sips, on macOS does this.</description>
       <pubDate>Sat, 05 Jul 2025 01:17:00 -0600</pubDate>
