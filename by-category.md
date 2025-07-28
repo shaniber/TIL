@@ -28,7 +28,7 @@
 * [2025-04-03 - Convert JSON to CSV](jq/convert_json_to_csv.md)
 
 ## macOS
-* [2025-06-05 - Scriptable Image Processing System](scriptable_image_processing_system.md)
+* [2025-07-05 - Scriptable Image Processing System](scriptable_image_processing_system.md)
 * [2025-05-12 - Using DFU Mode to quickly wipe a Mac](macos/using_dfu_mode_to_quickly_wipe_a_mac.md)
 * [2025-04-29 - Finder is an FTP client](macos/finder_is_an_ftp_client.md)
 * [2025-03-18 - CLI log command](macos/cli_log_command.md)
