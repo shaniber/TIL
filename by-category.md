@@ -4,6 +4,7 @@
 * [2025-03-27 - The Harvard Sentences for testing audio](audio/the_harvard_sentences_for_testing_audio.md)
 
 ## Bash
+* [2025-07-28 - Cursor movement](bash/cursor_movement.md)
 * [2025-03-19 - Find terminal width and height](bash/find_terminal_width_and_height.md)
 * [2025-02-19 - Bash pattern substitution](bash/bash_pattern_substitution.md)
 * [2025-02-20 - Convert a string to lower case](bash/convert_a_string_to_lower_case.md)

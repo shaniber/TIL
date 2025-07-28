@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Bash: Cursor movement</title>
+      <description>I learned how to place the curson within a terminal window with ANSI escape sequences.</description>
+      <pubDate>Mon, 28 Jul 2025 16:26:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/bash/cursor_movement.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/bash/cursor_movement.html</guid>
+      <category>Bash</category>
+    </item>
+    <item>
       <title>GWS: Importing iCal events to Google Calendar</title>
       <description>I signed up for an event that provided me an iCal entry, and wanted to add it to my Google Calendar.</description>
       <pubDate>Thu, 24 Jul 2025 09:09:00 -0600</pubDate>
