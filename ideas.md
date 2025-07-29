@@ -31,3 +31,5 @@ Things I learned, but didn't have time to do a write-up for.
 * git: force overwrite of local changes
   * https://stackoverflow.com/questions/1125968/how-do-i-force-git-pull-to-overwrite-local-files
 * ssh / macos: add key passphrase to keychain
+* brace expansion to rename files
+  * https://til.hashrocket.com/posts/yapr1sarwx-use-brace-expansion-to-rename-files
