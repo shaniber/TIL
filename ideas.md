@@ -34,3 +34,5 @@ Things I learned, but didn't have time to do a write-up for.
   * https://apple.stackexchange.com/questions/48502/how-can-i-permanently-add-my-ssh-private-key-to-keychain-so-it-is-automatically
 * brace expansion to rename files
   * https://til.hashrocket.com/posts/yapr1sarwx-use-brace-expansion-to-rename-files
+* curl - disable certificate validation
+  * https://serverfault.com/questions/469824/curl-disable-certificate-verification
