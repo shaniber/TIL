@@ -40,6 +40,8 @@
 ## Security 
 * [2025-06-18 - Migrating OTPs between password managers](security/migrating_otps_between_password_managers.md)  
 
+## Slack
+* [2025-08-28 - Use a Custom Font in Slack](slack/use_a_custom_font_in_slack.md)
 ## SWF (ShockWave Flash)
 * [2025-04-04 - Convert SWF to PNG](swf/convert_swf_to_png.md)
 

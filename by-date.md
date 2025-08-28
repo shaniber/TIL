@@ -2,6 +2,9 @@
 
 ## 2025
 
+### August
+* [2025-08-28 - Use a Custom Font in Slack](slack/use_a_custom_font_in_slack.md)  
+
 ### July
 * [2025-07-28 - Cursor movement](bash/cursor_movement.md)
 * [2025-07-24 - GWS: Importing iCal events to Google Calendar](gws/importing_ical_events_to_google_calendar.md)

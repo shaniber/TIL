@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Slack: Use a custom font in Slack</title>
+      <description>I wanted to change my font in Slack to something other than supported fonts.</description>
+      <pubDate>Thu, 28 Aug 2025 16:32:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/slack/use_a_custom_font_in_slack.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/slack/use_a_custom_font_in_slack.html</guid>
+      <category>Slack</category>
+    </item>
+    <item>
       <title>Bash: Cursor movement</title>
       <description>I learned how to place the curson within a terminal window with ANSI escape sequences.</description>
       <pubDate>Mon, 28 Jul 2025 16:26:00 -0600</pubDate>
