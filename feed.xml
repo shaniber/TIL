@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>zsh: Show entirety of zsh history</title>
+      <description>I wanted to find old commands in my zsh history.</description>
+      <pubDate>Wed, 01 Oct 2025 16:48:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/zsh/show_entirety_of_zsh_history.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/zsh/show_entirety_of_zsh_history.html</guid>
+      <category>zsh</category>
+    </item>
+    <item>
       <title>Slack: Use a custom font in Slack</title>
       <description>I wanted to change my font in Slack to something other than supported fonts.</description>
       <pubDate>Thu, 28 Aug 2025 16:32:00 -0600</pubDate>

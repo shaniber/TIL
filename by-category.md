@@ -52,3 +52,6 @@
 ## VSCode (Visual Studio Code)
 * [2025-03-26 - Set language specific indentation settings](vscode/set_language_specific_indentation_settings.md)
 
+## zsh
+* [2025-10-01 - Show entirety of zsh history](zsh/show_entirety_of_zsh_history.md)
+

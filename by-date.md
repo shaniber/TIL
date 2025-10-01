@@ -2,6 +2,9 @@
 
 ## 2025
 
+### October
+* [2025-10-01 - zsh: Show entirety of zsh history](zsh/show_entirety_of_zsh_history.md)
+
 ### August
 * [2025-08-28 - Use a Custom Font in Slack](slack/use_a_custom_font_in_slack.md)  
 

@@ -2,7 +2,7 @@
 
 Little articles about things that I learned today. 
 
-📈 **25** articles and counting...
+📈 **26** articles and counting...
 
 
 ## TILs
@@ -21,6 +21,7 @@ Little articles about things that I learned today.
   * [ShockWave Flash ](swf/index.md)
   * [Vim](vim/index.md)
   * [Visual Studio Code](vscode/index.md)
+  * [zsh](zsh/index.md)
 
 * [By date](by-date.md)
   * [2025](by-date.md#2025)
