@@ -9,13 +9,13 @@ I've been a bash guy for decades, so even though zsh and bash are similar, some 
 zsh `history` will accept arguments for the first and last to show, like this:
 
 ```zsh
-zsh [first] [last]
+history [first] [last]
 ```
 
 If you only give one argument, it will start displaying history at that point, and default to last being the _actual_ last command in the history file. So this:
 
 ```zsh
-zsh 0
+history 0
 ```
 
 will give you your entire history to grep through. 
