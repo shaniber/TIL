@@ -15,6 +15,7 @@ do
   touch foo
   cd ..
 done
+```
 
 Nothing groundbreaking, but a helpful hint.
 
