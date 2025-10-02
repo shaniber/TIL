@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Bash: Looping over directories</title>
+      <description>I had a list of directories that I needed to run a command within.</description>
+      <pubDate>Thu, 02 Oct 2025 13:27:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/bash/looping_over_directories.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/bash/looping_over_directories.html</guid>
+      <category>Bash</category>
+    </item>
+    <item>
       <title>zsh: Show entirety of zsh history</title>
       <description>I wanted to find old commands in my zsh history.</description>
       <pubDate>Wed, 01 Oct 2025 16:48:00 -0600</pubDate>

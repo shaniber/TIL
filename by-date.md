@@ -3,6 +3,7 @@
 ## 2025
 
 ### October
+* [2025-10-02 - Bash: Looping over directories](bash/looping_over_directories.md)
 * [2025-10-01 - zsh: Show entirety of zsh history](zsh/show_entirety_of_zsh_history.md)
 
 ### August

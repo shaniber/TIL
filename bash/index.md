@@ -1,6 +1,7 @@
 # TILs by category
 
 ## Bash
+* [2025-10-02 - Looping over directories](looping_over_directories.md)
 * [2025-07-28 - Cursor movement](cursor_movement.md)
 * [2025-03-19 - Find terminal width and height](find_terminal_width_and_height.md)
 * [2025-02-19 - Bash pattern substitution](bash_pattern_substitution.md)
