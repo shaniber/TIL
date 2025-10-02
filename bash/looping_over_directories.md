@@ -9,7 +9,7 @@ This is a problem that I regularly need to look up, so it's time to write it dow
 I want to loop over all of the directories in a path, change into them, and perform a command. Easy-peasy with a `for` loop and a quick test, I just never remember how to do it. For example:
 
 ```bash
-$ for entry in ./*
+for entry in ./*
 do
   if [[ -d "${entry}" ]]
   then
