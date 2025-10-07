@@ -38,3 +38,8 @@ Things I learned, but didn't have time to do a write-up for.
   * https://serverfault.com/questions/469824/curl-disable-certificate-verification
 * Example PII data
   * https://www.microfocus.com/documentation/idol/IDOL_24_3/EductionGrammars_24.3_Documentation/PII/Content/PII/PII_Examples.htm
+* git: undo the last commit
+  * https://www.nobledesktop.com/learn/git/undo-changes
+  * https://git-scm.com/docs/git-reset
+* household: dishwasher turbidity sensors
+  * https://www.tiktok.com/@renduh/video/7535142315451567415
