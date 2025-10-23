@@ -43,3 +43,5 @@ Things I learned, but didn't have time to do a write-up for.
   * https://git-scm.com/docs/git-reset
 * household: dishwasher turbidity sensors
   * https://www.tiktok.com/@renduh/video/7535142315451567415
+* Jekyll: start ordered lists with arbitrary numbers
+  * https://stackoverflow.com/a/41575690
