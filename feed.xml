@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Macos: Mute mic globally</title>
+      <description>I wanted a hotkey to mute my mic regardless of where I was in macOS.</description>
+      <pubDate>Thu, 23 Oct 2025 11:16:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/macos/mute_mic_globally.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/macos/mute_mic_globally.html</guid>
+      <category>Macos</category>
+    </item>
+    <item>
       <title>Bash: Looping over directories</title>
       <description>I had a list of directories that I needed to run a command within.</description>
       <pubDate>Thu, 02 Oct 2025 13:27:00 -0600</pubDate>
