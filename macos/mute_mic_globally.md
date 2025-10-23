@@ -9,7 +9,8 @@ Automator and keyboard shortcuts are our friends here.
 1. Open `Automator.app` and create a new **Quick Action**. 
 2. Change `Workflow receives` to `no input`. 
 3. Add a `Run Applescript` action.
-4. Remove the boilerplate code, and add the following code:
+4. Remove the boilerplate code, and add the following code:  
+
 ```applescript
 on getMicrophoneVolume()
   input volume of (get volume settings)
@@ -29,6 +30,8 @@ else
   enableMicrophone()
 end if
 ```
+
+{:start="5"}
 5. Save the workflow as something memorable, like `mic-toggle`. 
 
 Next, you'll need to grant permissions to Automator within to manage accessiblity.
