@@ -42,8 +42,8 @@ Next, you'll need to grant permissions to Automator within to manage accessiblit
 
 Finally, set a keyborad shortcut.
 
-1. Open **Sytem Settings** » **Accessibility** » **Keyboard**
-2. Click **Keyboard Settings**, then click **Keyboard Shortcuts**. 
+1. Open **Sytem Settings** » **Keyboard**
+2. Click **Keyboard Shortcuts**. 
 3. In the left side, select **Services**, then find your automation, probably under **General**, and assign a keyboard shortcut to it. 
 
 Et voila! You can now mute your mic from whereever you are in the OS. Be careful that you're not overriding an existing shortcut, or you could have unexpected results. 
