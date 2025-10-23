@@ -30,6 +30,8 @@ Little articles about things that I learned today.
 
 * [Git Repo](https://github.com/shaniber/TIL) -- this looks redundant, but when this is a webpage, it's actually helpful!
 
+* [Ideas](ideas.md)... stuff I thought of, but haven't had a chance to write about yet. 
+
 ## Other TIL Collections
 * Shamelessly inspired by [jbranchaud/til](https://github.com/jbranchaud/til).
 * [jworth/til](https://github.com/jwworth/til)
