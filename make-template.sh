@@ -62,4 +62,8 @@ printf "      <guid isPermaLink=\"true\">{{ site.url }}{{ site.baseurl }}/%s/%s.
 printf "      <category>%s</category>\n", category;
 printf "    </item>\n"; }' feed.xml.bak > feed.xml
 
-echo "Done!"
+echo "Opening your editor with the new file: ./${til_path}/${til_subject_normalized}.md"
+"$EDITOR" "./${til_path}/${til_subject_normalized}.md"
+
+echo && echo "Make sure you commit everything, and push it to the repo!" && echo
+
