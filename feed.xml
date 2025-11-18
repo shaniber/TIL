@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Internets: Find the date of an XKCD comic</title>
+      <description>I wanted to find the date of an XKCD comic from a ways in the past.</description>
+      <pubDate>Tue, 18 Nov 2025 12:33:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/internets/find_the_date_of_an_xkcd_comic.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/internets/find_the_date_of_an_xkcd_comic.html</guid>
+      <category>Internets</category>
+    </item>
+    <item>
       <title>Macos: Mute mic globally</title>
       <description>I wanted a hotkey to mute my mic regardless of where I was in macOS.</description>
       <pubDate>Thu, 23 Oct 2025 11:16:00 -0600</pubDate>

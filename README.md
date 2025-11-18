@@ -2,7 +2,7 @@
 
 Little articles about things that I learned today. 
 
-📈 **28** articles and counting...
+📈 **29** articles and counting...
 
 
 ## TILs
@@ -11,6 +11,7 @@ Little articles about things that I learned today.
   * [Bash](bash/index.md)
   * [Google Apps Manager](gam/index.md)
   * [Google Workspace](gws/index.md)
+  * [internets](internets/index.md)
   * [Jamf](jamf/index.md)
   * [JSON](json/index.md)
   * [jq](jq/index.md)

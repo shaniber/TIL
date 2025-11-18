@@ -19,6 +19,9 @@
 * [2025-05-22 - Extracting pictures from Google Slides](gws/extracting_pictures_from_google_slides.md)
 * [2025-05-14 - Getting Google Calendar troubleshooting info](gws/getting_google_calendar_troubleshooting_info.md)
 
+## internets
+* [2025-11-18 - Find the date of an xkcd comic](internets/find_the_date_of_an_xkcd_comic.md)  
+
 ## Jamf
 * [2025-02-11 - Regenerate invalid FileVault keys](jamf/regenerate_invalid_filevault_keys.md)
 

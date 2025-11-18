@@ -2,6 +2,9 @@
 
 ## 2025
 
+### November
+* [2025-11-18 - internets: Find the date of an xkcd comic](internets/find_the_date_of_an_xkcd_comic.md)
+
 ### October
 * [2025-10-23 - macOS: Mute Mic Globally](macos/mute_mic_globally.md)
 * [2025-10-02 - Bash: Looping over directories](bash/looping_over_directories.md)
