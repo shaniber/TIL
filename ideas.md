@@ -49,3 +49,5 @@ Things I learned, but didn't have time to do a write-up for.
   * https://til.hashrocket.com/posts/wwyk7usrgq-delete-lines-with-patterns-and-ex-commands
 * macos: detect how long a user has been idle
   * https://github.com/jbranchaud/til/blob/master/mac/detect-how-long-a-user-has-been-idle.md
+* macos: immediately save screenshots 
+  * https://derflounder.wordpress.com/2025/11/27/disabling-the-floating-thumbnail-preview-for-screenshots-on-macos-tahoe/
