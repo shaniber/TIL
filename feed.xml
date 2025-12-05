@@ -16,7 +16,7 @@ layout: null
     <language>en-CA</language>
     <item>
       <title>Dnd: How to make a concentration check</title>
-      <description>Almost every time I play D&D I need to look up how to make a spellcasting concentration check.</description>
+      <description>Almost every time I play D&#038;D I need to look up how to make a spellcasting concentration check.</description>
       <pubDate>Fri, 05 Dec 2025 09:14:00 -0600</pubDate>
       <dc:creator>shane doucette</dc:creator>
       <link>{{ site.url }}{{ site.baseurl }}/dnd/how_to_make_a_concentration_check.html</link>
