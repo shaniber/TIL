@@ -2,6 +2,9 @@
 
 ## 2025
 
+### December
+* [2025-12-05 - How to make a concentration check](dnd/how_to_make_a_concentration_check.md)
+
 ### November
 * [2025-11-18 - internets: Find the date of an xkcd comic](internets/find_the_date_of_an_xkcd_comic.md)
 

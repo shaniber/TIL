@@ -2,13 +2,14 @@
 
 Little articles about things that I learned today. 
 
-📈 **29** articles and counting...
+📈 **30** articles and counting...
 
 
 ## TILs
 * [By category](by-category.md)  
   * [Audio](audio/index.md)
   * [Bash](bash/index.md)
+  * [Dungeons & Dragons](dnd/index.md)
   * [Google Apps Manager](gam/index.md)
   * [Google Workspace](gws/index.md)
   * [internets](internets/index.md)
