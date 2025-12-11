@@ -3,6 +3,7 @@
 ## 2025
 
 ### December
+* [2025-12-11 - Count the number of occurances of a value in a column](gws/count_the_number_of_occurances_of_a_value_in_a_column.md)
 * [2025-12-05 - How to make a concentration check](dnd/how_to_make_a_concentration_check.md)
 
 ### November

@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Gws: Count the number of occurances of a value in a column</title>
+      <description>I needed to count the number of times a computer model occured in a column, so that I could automate a pricing calculator.</description>
+      <pubDate>Thu, 11 Dec 2025 09:14:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/gws/count_the_number_of_occurances_of_a_value_in_a_column.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/gws/count_the_number_of_occurances_of_a_value_in_a_column.html</guid>
+      <category>Gws</category>
+    </item>
+    <item>
       <title>Dnd: How to make a concentration check</title>
       <description>Almost every time I play D&#038;D I need to look up how to make a spellcasting concentration check.</description>
       <pubDate>Fri, 05 Dec 2025 09:14:00 -0600</pubDate>
