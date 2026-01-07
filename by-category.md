@@ -23,6 +23,9 @@
 * [2025-05-22 - Extracting pictures from Google Slides](gws/extracting_pictures_from_google_slides.md)
 * [2025-05-14 - Getting Google Calendar troubleshooting info](gws/getting_google_calendar_troubleshooting_info.md)
 
+## Hardware
+* [2026-01-07 - Switching layouts on Logitech keyboards](hardware/switching_layouts_on_logitech_keyboards.md)
+
 ## internets
 * [2025-11-18 - Find the date of an xkcd comic](internets/find_the_date_of_an_xkcd_comic.md)  
 

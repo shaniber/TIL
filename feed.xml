@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Hardware: Switching layouts on Logitech keyboards</title>
+      <description>Switching layouts on Logitech keyboards</description>
+      <pubDate>Wed, 07 Jan 2026 09:31:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/hardware/switching_layouts_on_logitech_keyboards.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/hardware/switching_layouts_on_logitech_keyboards.html</guid>
+      <category>Hardware</category>
+    </item>
+    <item>
       <title>Gws: Count the number of occurances of a value in a column</title>
       <description>I needed to count the number of times a computer model occured in a column, so that I could automate a pricing calculator.</description>
       <pubDate>Thu, 11 Dec 2025 09:14:00 -0600</pubDate>

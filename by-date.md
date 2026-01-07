@@ -1,5 +1,10 @@
 # TILs by date
 
+## 2026
+
+### January
+* [2026-01-07 - Switching layouts on Logitech keyboards](hardware/switching_layouts_on_logitech_keyboards.md)
+
 ## 2025
 
 ### December

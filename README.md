@@ -2,7 +2,7 @@
 
 Little articles about things that I learned today. 
 
-📈 **31** articles and counting...
+📈 **32** articles and counting...
 
 
 ## TILs
@@ -12,6 +12,7 @@ Little articles about things that I learned today.
   * [Dungeons & Dragons](dnd/index.md)
   * [Google Apps Manager](gam/index.md)
   * [Google Workspace](gws/index.md)
+  * [Hardware](hardware/index.md)
   * [internets](internets/index.md)
   * [Jamf](jamf/index.md)
   * [JSON](json/index.md)
@@ -26,6 +27,7 @@ Little articles about things that I learned today.
   * [zsh](zsh/index.md)
 
 * [By date](by-date.md)
+  * [2026](by-date.md#2026)
   * [2025](by-date.md#2025)
 
 * [RSS Feed](feed.xml), in case you want to keep up with my sporadic posting. 
