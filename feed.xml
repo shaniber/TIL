@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Firefox: Adding a user stylesheet</title>
+      <description>I wanted to modify the functionality of a website, which was facilitated by a user stylesheet.</description>
+      <pubDate>Tue, 10 Feb 2026 13:04:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/firefox/adding_a_user_stylesheet.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/firefox/adding_a_user_stylesheet.html</guid>
+      <category>Firefox</category>
+    </item>
+    <item>
       <title>Hardware: Switching layouts on Logitech keyboards</title>
       <description>Switching layouts on Logitech keyboards</description>
       <pubDate>Wed, 07 Jan 2026 09:31:00 -0600</pubDate>

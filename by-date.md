@@ -2,6 +2,9 @@
 
 ## 2026
 
+### February
+* [2026-02-10 - Adding a user stylesheet](firefox/adding_a_user_stylesheet.md)
+
 ### January
 * [2026-01-07 - Switching layouts on Logitech keyboards](hardware/switching_layouts_on_logitech_keyboards.md)
 

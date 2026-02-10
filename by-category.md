@@ -14,6 +14,9 @@
 ## Dungeons & Dragons (dnd)
 * [2025-12-05 - How to make a concentration check](dnd/how_to_make_a_concentration_check.md)
 
+## Firefox
+* [2026-02-10 - Adding a user stylesheet](firefox/adding_a_user_stylesheet.md)
+
 ## GAM (Google Apps Manager)
 * [2025-02-18 - Export all Google groups in workspace](gam/export_all_google_groups_in_workspace.md)
 
