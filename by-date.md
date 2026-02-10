@@ -3,16 +3,16 @@
 ## 2026
 
 ### February
-* [2026-02-10 - Adding a user stylesheet](firefox/adding_a_user_stylesheet.md)
+* [2026-02-10 - Firefox: Adding a user stylesheet](firefox/adding_a_user_stylesheet.md)
 
 ### January
-* [2026-01-07 - Switching layouts on Logitech keyboards](hardware/switching_layouts_on_logitech_keyboards.md)
+* [2026-01-07 - Hardware: Switching layouts on Logitech keyboards](hardware/switching_layouts_on_logitech_keyboards.md)
 
 ## 2025
 
 ### December
-* [2025-12-11 - Count the number of occurances of a value in a column](gws/count_the_number_of_occurances_of_a_value_in_a_column.md)
-* [2025-12-05 - How to make a concentration check](dnd/how_to_make_a_concentration_check.md)
+* [2025-12-11 - GWS: Count the number of occurances of a value in a column](gws/count_the_number_of_occurances_of_a_value_in_a_column.md)
+* [2025-12-05 - Dungeons & Dragons: How to make a concentration check](dnd/how_to_make_a_concentration_check.md)
 
 ### November
 * [2025-11-18 - internets: Find the date of an xkcd comic](internets/find_the_date_of_an_xkcd_comic.md)
