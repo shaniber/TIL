@@ -51,3 +51,5 @@ Things I learned, but didn't have time to do a write-up for.
   * https://github.com/jbranchaud/til/blob/master/mac/detect-how-long-a-user-has-been-idle.md
 * macos: immediately save screenshots 
   * https://derflounder.wordpress.com/2025/11/27/disabling-the-floating-thumbnail-preview-for-screenshots-on-macos-tahoe/
+* gws: change ownership of a calendar event
+  * https://old.reddit.com/r/GoogleAppsScript/comments/to5u8t/as_an_admin_is_there_a_way_to_change_the/
