@@ -53,3 +53,9 @@ Things I learned, but didn't have time to do a write-up for.
   * https://derflounder.wordpress.com/2025/11/27/disabling-the-floating-thumbnail-preview-for-screenshots-on-macos-tahoe/
 * gws: change ownership of a calendar event
   * https://old.reddit.com/r/GoogleAppsScript/comments/to5u8t/as_an_admin_is_there_a_way_to_change_the/
+* gws: API lookups in the API explorer
+  * https://developers.google.com/explorer-help/
+  * customer: `my_customer`
+  * pageToken: in returned data
+  * query: for custom fields
+  * for example: `Beverages.IsBeverageDrinker=true` 
