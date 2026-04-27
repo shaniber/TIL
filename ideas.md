@@ -55,6 +55,7 @@ Things I learned, but didn't have time to do a write-up for.
   * https://old.reddit.com/r/GoogleAppsScript/comments/to5u8t/as_an_admin_is_there_a_way_to_change_the/
 * gws: API lookups in the API explorer
   * https://developers.google.com/explorer-help/
+  * https://developers.google.com/workspace/admin/directory/reference/rest/v1/users/list
   * customer: `my_customer`
   * pageToken: in returned data
   * query: for custom fields
