@@ -60,3 +60,7 @@ Things I learned, but didn't have time to do a write-up for.
   * pageToken: in returned data
   * query: for custom fields
   * for example: `Beverages.IsBeverageDrinker=true` 
+* vim: hex editor mode
+  * `:%!xxd`
+  * https://vi.stackexchange.com/questions/2232/how-can-i-use-vim-as-a-hex-editor
+
