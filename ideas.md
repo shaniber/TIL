@@ -63,4 +63,5 @@ Things I learned, but didn't have time to do a write-up for.
 * vim: hex editor mode
   * `:%!xxd`
   * https://vi.stackexchange.com/questions/2232/how-can-i-use-vim-as-a-hex-editor
-
+* Apple's Info.plist format
+  * https://digital-forensics.polewczyk.fr/apple/unified-logs/info-plist/
