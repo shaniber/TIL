@@ -67,3 +67,5 @@ Things I learned, but didn't have time to do a write-up for.
   * https://digital-forensics.polewczyk.fr/apple/unified-logs/info-plist/
 * Type special characters (like ¸) on macOS. 
   * https://geekboards.de/blogs/news/the-ultimate-2025-guide-to-special-mac-os-character-combinations
+* Import a CSV to an SQLite database
+  * https://www.sqlitetutorial.net/sqlite-import-csv/
