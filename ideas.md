@@ -69,3 +69,5 @@ Things I learned, but didn't have time to do a write-up for.
   * https://geekboards.de/blogs/news/the-ultimate-2025-guide-to-special-mac-os-character-combinations
 * Import a CSV to an SQLite database
   * https://www.sqlitetutorial.net/sqlite-import-csv/
+* Show serial console in UTM
+  * https://github.com/utmapp/UTM/discussions/7302
