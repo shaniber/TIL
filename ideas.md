@@ -71,3 +71,6 @@ Things I learned, but didn't have time to do a write-up for.
   * https://www.sqlitetutorial.net/sqlite-import-csv/
 * Show serial console in UTM
   * https://github.com/utmapp/UTM/discussions/7302
+* slack: figure out what bot a token belongs to
+  * https://docs.slack.dev/reference/methods/auth.test/
+  * https://sfailabs.com/guides/how-to-get-slack-bot-token
