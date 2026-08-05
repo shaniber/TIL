@@ -74,3 +74,4 @@ Things I learned, but didn't have time to do a write-up for.
 * slack: figure out what bot a token belongs to
   * https://docs.slack.dev/reference/methods/auth.test/
   * https://sfailabs.com/guides/how-to-get-slack-bot-token
+  * https://www.getknit.dev/blog/how-to-get-a-slack-bot-token-step-by-step
