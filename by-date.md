@@ -2,6 +2,9 @@
 
 ## 2026
 
+### August
+* [2026-08-05 - macOS: Get info about MDM management with mdmstatus](macos/get_info_about_mdm_management_with_mdmstatus.md)
+
 ### February
 * [2026-02-10 - Firefox: Adding a user stylesheet](firefox/adding_a_user_stylesheet.md)
 

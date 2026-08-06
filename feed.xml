@@ -15,6 +15,15 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <language>en-CA</language>
     <item>
+      <title>Macos: Get info about MDM management with mdmstatus</title>
+      <description>I was looking for MDM information for debugging something, and /usr/libexec/mdmclient offers a ton of info.</description>
+      <pubDate>Wed, 05 Aug 2026 20:28:00 -0600</pubDate>
+      <dc:creator>shane doucette</dc:creator>
+      <link>{{ site.url }}{{ site.baseurl }}/macos/get_info_about_mdm_management_with_mdmstatus.html</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}/macos/get_info_about_mdm_management_with_mdmstatus.html</guid>
+      <category>Macos</category>
+    </item>
+    <item>
       <title>Firefox: Adding a user stylesheet</title>
       <description>I wanted to modify the functionality of a website, which was facilitated by a user stylesheet.</description>
       <pubDate>Tue, 10 Feb 2026 13:04:00 -0600</pubDate>
