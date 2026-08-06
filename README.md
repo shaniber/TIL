@@ -1,6 +1,6 @@
 # Today I Learned
 
-Little articles about things that I learned today. 
+Little articles about things that I learned "today". And by today, I mean whenever I get around to reviewing my ideas file and writing up something I've stashed there. Time has no meaning, pants are a tool of the patriarchy, and pro-wrestling is only real if you believe in it. 
 
 📈 **34** articles and counting...
 
