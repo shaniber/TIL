@@ -12,7 +12,7 @@ The `mdmclient` command will output a whole bunch of useful MDM information in .
 
 Will output something like this:
 
-```
+```plist
 Management status: {
     DEPEnrolledMDMs =     (
         "00000000-0000-0000-A000-XXXXXXXXXXXX"
