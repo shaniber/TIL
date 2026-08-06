@@ -58,7 +58,8 @@ Management status: {
     UserApprovedMDMs =     (
         "00000000-0000-0000-A000-XXXXXXXXXXXX"
     );
-}```
+}
+```
 
 There's a lot of useful commands that are available. Use with caution, of course, as some of them do more than query. 
 
