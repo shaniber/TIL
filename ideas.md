@@ -71,3 +71,7 @@ Things I learned, but didn't have time to do a write-up for.
   * https://docs.slack.dev/reference/methods/auth.test/
   * https://sfailabs.com/guides/how-to-get-slack-bot-token
   * https://www.getknit.dev/blog/how-to-get-a-slack-bot-token-step-by-step
+* macos: convert an SVG to a PNG on the command line
+  * qlmanage
+  * https://ss64.com/mac/qlmanage.html`
+  * https://medium.com/@instanceofMA/convert-an-svg-to-png-with-right-click-on-macos-2353d151f4eb
